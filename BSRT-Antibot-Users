@@ -2,4 +2,5 @@ Checking used antibot names
 true = used
 false = unused
 BSRT_Antibot_V0.01 (true)
-BSRT_Antibot_V0.02 (false)
+BSRT_Antibot_V0.02 (true)
+BSRT_Antibot_V0.03 (false)
